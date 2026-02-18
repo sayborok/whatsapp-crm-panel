@@ -1,0 +1,11 @@
+/vendor/
+/composer.lock
+.env
+*.log
+config/database.php_backup
+/brain/
+node_modules/
+.vscode/
+.idea/
+/logs/
+php_error.log

@@ -1,0 +1,23 @@
+{
+    "name": "sayborok/whatsapp-crm",
+    "description": "WhatsApp CRM Panel using WhatsApp Cloud API",
+    "type": "project",
+    "require": {
+        "sayborok/php-whatsapp-cloud-api": "dev-main"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/sayborok/php-whatsapp-cloud-api"
+        }
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Burak Esen",
+            "email": "dev@burakesen.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
